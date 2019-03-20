@@ -1,0 +1,53 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2016-11-29 01:04:35 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-11-29 01:04:36 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-11-29 01:17:45 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-11-29 01:24:21 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-11-29 01:32:39 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-11-29 02:02:23 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-11-29 02:21:26 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-11-29 02:47:19 --> 404 Page Not Found --> inc
+ERROR - 2016-11-29 03:03:06 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-11-29 03:40:08 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-11-29 05:57:42 --> 404 Page Not Found --> editor
+ERROR - 2016-11-29 06:31:49 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-11-29 07:28:11 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-11-29 08:59:39 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-11-29 09:15:27 --> 404 Page Not Found --> ckeditor
+ERROR - 2016-11-29 10:58:38 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-11-29 12:21:00 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-11-29 12:25:20 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-11-29 12:31:46 --> 404 Page Not Found --> editorold
+ERROR - 2016-11-29 13:37:17 --> 404 Page Not Found --> wp-login.php
+ERROR - 2016-11-29 13:43:00 --> 404 Page Not Found --> _vti_bin
+ERROR - 2016-11-29 13:48:18 --> 404 Page Not Found --> wp-login.php
+ERROR - 2016-11-29 13:53:16 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-11-29 14:57:49 --> 404 Page Not Found --> wp-login.php
+ERROR - 2016-11-29 15:47:09 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-11-29 15:57:16 --> 404 Page Not Found --> fck
+ERROR - 2016-11-29 16:20:02 --> Severity: Notice  --> Use of undefined constant php - assumed 'php' /home/ishkaransingh/public_html/application/views/view_review_order.php 57
+ERROR - 2016-11-29 16:37:42 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-11-29 16:37:42 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-11-29 17:28:55 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-11-29 17:28:55 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-11-29 17:54:42 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-11-29 19:14:05 --> 404 Page Not Found --> Fckeditor
+ERROR - 2016-11-29 19:52:47 --> 404 Page Not Found --> images
+ERROR - 2016-11-29 20:32:12 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-11-29 20:32:13 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-11-29 20:32:18 --> 404 Page Not Found --> sitemap.xml
+ERROR - 2016-11-29 20:32:28 --> 404 Page Not Found --> sitemap.xml
+ERROR - 2016-11-29 20:35:23 --> Severity: Notice  --> Use of undefined constant php - assumed 'php' /home/ishkaransingh/public_html/application/views/view_review_order.php 57
+ERROR - 2016-11-29 20:42:23 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-11-29 20:42:24 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-11-29 20:48:46 --> Severity: Notice  --> Undefined variable: email /home/ishkaransingh/public_html/application/views/email/order-txt.php 13
+ERROR - 2016-11-29 21:35:27 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-11-29 21:50:18 --> 404 Page Not Found --> wp-login.php
+ERROR - 2016-11-29 21:50:18 --> 404 Page Not Found --> wp-login.php
+ERROR - 2016-11-29 21:57:33 --> 404 Page Not Found --> Fckeditorold
+ERROR - 2016-11-29 22:00:31 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-11-29 22:36:17 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-11-29 23:52:17 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-11-29 23:55:16 --> 404 Page Not Found --> editor1
+ERROR - 2016-11-29 23:56:42 --> 404 Page Not Found --> robots.txt

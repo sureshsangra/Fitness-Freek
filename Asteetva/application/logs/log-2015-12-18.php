@@ -1,0 +1,45 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2015-12-18 01:00:41 --> 404 Page Not Found --> favicon.ico
+ERROR - 2015-12-18 01:08:12 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-12-18 01:58:07 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-12-18 02:25:16 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-12-18 02:54:23 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-12-18 03:08:23 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-12-18 03:21:40 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-12-18 03:41:07 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-12-18 04:16:47 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-12-18 04:43:14 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-12-18 05:50:10 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-12-18 05:56:34 --> 404 Page Not Found --> media
+ERROR - 2015-12-18 06:35:34 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-12-18 07:01:49 --> 404 Page Not Found --> wp-admin
+ERROR - 2015-12-18 07:01:49 --> 404 Page Not Found --> blog
+ERROR - 2015-12-18 07:01:49 --> 404 Page Not Found --> wordpress
+ERROR - 2015-12-18 07:15:14 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-12-18 08:42:21 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-12-18 09:21:06 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-12-18 09:46:14 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-12-18 09:47:05 --> 404 Page Not Found --> images
+ERROR - 2015-12-18 10:30:07 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-12-18 10:36:21 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-12-18 10:36:21 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-12-18 11:14:13 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-12-18 12:19:39 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-12-18 13:23:17 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-12-18 13:26:08 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-12-18 14:04:42 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-12-18 14:25:27 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-12-18 14:37:45 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-12-18 14:58:46 --> Severity: Notice  --> Use of undefined constant php - assumed 'php' /home/ishkaransingh/public_html/application/views/view_review_order.php 22
+ERROR - 2015-12-18 14:58:59 --> Severity: Notice  --> Undefined variable: email /home/ishkaransingh/public_html/application/views/email/order-txt.php 13
+ERROR - 2015-12-18 15:23:46 --> 404 Page Not Found --> images
+ERROR - 2015-12-18 15:56:27 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-12-18 17:01:43 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-12-18 17:01:44 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-12-18 19:21:02 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-12-18 20:05:55 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-12-18 20:47:57 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-12-18 21:14:59 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-12-18 22:02:42 --> 404 Page Not Found --> favicon.ico
+ERROR - 2015-12-18 22:06:40 --> 404 Page Not Found --> robots.txt

@@ -1,0 +1,126 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2016-02-10 00:06:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 00:16:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 00:26:41 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 00:32:10 --> 404 Page Not Found --> wp-content
+ERROR - 2016-02-10 00:36:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 00:46:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 00:51:50 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-02-10 00:56:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 00:57:58 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2016-02-10 01:06:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 01:16:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 01:26:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 01:36:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 01:46:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 01:56:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 02:06:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 02:16:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 02:26:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 02:36:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 02:46:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 02:56:41 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 02:59:42 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-02-10 03:06:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 03:16:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 03:26:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 03:36:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 03:46:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 03:56:41 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 04:06:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 04:16:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 04:18:22 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-02-10 04:26:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 04:36:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 04:46:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 04:56:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 05:04:42 --> Severity: Notice  --> Use of undefined constant php - assumed 'php' /home/ishkaransingh/public_html/application/views/view_review_order.php 22
+ERROR - 2016-02-10 05:06:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 05:06:45 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-02-10 05:09:26 --> Severity: Notice  --> Undefined variable: email /home/ishkaransingh/public_html/application/views/email/order-txt.php 13
+ERROR - 2016-02-10 05:10:04 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 05:16:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 05:26:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 05:36:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 05:43:53 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-02-10 05:46:05 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-02-10 05:46:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 05:49:02 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-02-10 05:56:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 06:05:51 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-02-10 06:06:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 06:07:56 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-02-10 06:08:31 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-02-10 06:09:05 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-02-10 06:16:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 06:26:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 07:21:50 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 07:59:04 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 08:09:04 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 08:25:44 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 08:35:44 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 09:03:12 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 09:28:09 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 09:34:35 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-02-10 09:38:09 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 09:55:43 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 10:07:58 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 10:17:58 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 10:27:58 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 10:37:58 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 10:55:15 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 11:02:23 --> Severity: Notice  --> Undefined index: coupon /home/ishkaransingh/public_html/application/controllers/cart.php 196
+ERROR - 2016-02-10 11:02:23 --> Severity: Notice  --> Undefined index: use_limit /home/ishkaransingh/public_html/application/controllers/cart.php 197
+ERROR - 2016-02-10 11:02:23 --> Severity: Notice  --> Undefined index: use_count /home/ishkaransingh/public_html/application/controllers/cart.php 198
+ERROR - 2016-02-10 11:03:20 --> Severity: Notice  --> Undefined index: coupon /home/ishkaransingh/public_html/application/controllers/cart.php 196
+ERROR - 2016-02-10 11:03:20 --> Severity: Notice  --> Undefined index: use_limit /home/ishkaransingh/public_html/application/controllers/cart.php 197
+ERROR - 2016-02-10 11:03:20 --> Severity: Notice  --> Undefined index: use_count /home/ishkaransingh/public_html/application/controllers/cart.php 198
+ERROR - 2016-02-10 11:19:49 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 11:35:44 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 11:35:52 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 11:49:32 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-02-10 11:55:57 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 12:08:45 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 12:19:41 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-02-10 12:44:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 12:46:47 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-02-10 12:48:25 --> Severity: Notice  --> Undefined variable: order_d /home/ishkaransingh/public_html/application/views/email/shipped-txt.php 3
+ERROR - 2016-02-10 12:48:25 --> Severity: Notice  --> Undefined variable: order_d /home/ishkaransingh/public_html/application/views/email/shipped-html.php 3
+ERROR - 2016-02-10 13:47:04 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 14:00:07 --> 404 Page Not Found --> feed
+ERROR - 2016-02-10 14:00:07 --> 404 Page Not Found --> .rss
+ERROR - 2016-02-10 14:00:07 --> 404 Page Not Found --> atom
+ERROR - 2016-02-10 14:00:08 --> 404 Page Not Found --> rss
+ERROR - 2016-02-10 14:07:05 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-02-10 14:14:30 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 14:43:42 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 15:13:09 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 15:23:52 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 15:34:03 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 15:44:03 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 15:46:14 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-02-10 16:16:00 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 17:23:37 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 17:35:35 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-02-10 17:48:50 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 18:00:28 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-02-10 18:06:05 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 18:19:36 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 18:23:40 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-02-10 18:41:45 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 19:17:35 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 19:27:56 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 19:37:56 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 19:47:56 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 20:18:07 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 21:50:40 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-02-10 21:55:35 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 22:02:38 --> 404 Page Not Found --> .git
+ERROR - 2016-02-10 22:05:35 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 22:35:15 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 22:45:14 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 22:55:15 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 23:05:14 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 23:15:15 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-02-10 23:25:14 --> 404 Page Not Found --> favicon.ico

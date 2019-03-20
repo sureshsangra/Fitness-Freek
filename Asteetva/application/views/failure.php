@@ -1,0 +1,2 @@
+<br> Looks like G-Man is interfering with your online payment, but dont worry you can always opt for Cash On Delivery (COD) as well. Meanwhile just try again.<br><br> For laymans (seriously, what are you doing here) : There was some technial fault in processing your payment, due to which it failed. If you have been charged, dont worry we will auto-refund your money. If online payment is an issue you can always opt for Cash On Delivery (COD) as well.<br><br>
+<a class= "btn btn-primary" href= <?php echo site_url('checkout/review')?> >Try Again</a>

@@ -1,0 +1,7 @@
+[21-Sep-2016 16:17:21 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ishkaransingh/public_html/blog/wp-content/themes/justwrite/index.php on line 6
+[01-Feb-2018 14:20:07 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ishkaransingh/public_html/blog/wp-content/themes/justwrite/404.php on line 7
+[01-Feb-2018 15:28:09 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ishkaransingh/public_html/blog/wp-content/themes/justwrite/404.php on line 7
+[07-Mar-2018 05:17:26 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ishkaransingh/public_html/blog/wp-content/themes/justwrite/archive.php on line 7
+[07-Mar-2018 05:17:26 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ishkaransingh/public_html/blog/wp-content/themes/justwrite/archive.php on line 7
+[15-Mar-2018 09:14:53 UTC] PHP Fatal error:  Call to undefined function language_attributes() in /home/ishkaransingh/public_html/blog/wp-content/themes/justwrite/header.php on line 7
+[15-Mar-2018 09:14:54 UTC] PHP Fatal error:  Call to undefined function language_attributes() in /home/ishkaransingh/public_html/blog/wp-content/themes/justwrite/header.php on line 7

@@ -1,0 +1,40 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2017-03-07 00:22:19 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-07 00:38:40 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-07 00:54:15 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-07 02:48:11 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-07 02:48:11 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-07 05:49:55 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-07 06:37:44 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-07 06:42:15 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-03-07 08:23:54 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-07 09:11:01 --> 404 Page Not Found --> images
+ERROR - 2017-03-07 09:13:42 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-07 10:17:57 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-07 10:38:08 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-07 11:23:17 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-07 12:14:47 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-07 12:44:34 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-03-07 12:44:34 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-03-07 13:23:37 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-03-07 14:21:47 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-07 14:35:34 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-07 14:44:20 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-07 16:24:31 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-07 16:40:26 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-03-07 16:47:26 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-07 17:48:14 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-07 17:55:19 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-07 17:57:48 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-07 18:10:51 --> Severity: Notice  --> Use of undefined constant php - assumed 'php' /home/ishkaransingh/public_html/application/views/view_review_order.php 58
+ERROR - 2017-03-07 18:20:36 --> Severity: Notice  --> Undefined variable: email /home/ishkaransingh/public_html/application/views/email/order-txt.php 13
+ERROR - 2017-03-07 18:20:47 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-03-07 18:34:34 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-07 19:01:52 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-07 19:52:32 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-07 20:14:24 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-03-07 21:50:48 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-07 22:50:28 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-07 23:58:00 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-07 23:58:08 --> 404 Page Not Found --> wp-login.php

@@ -1,0 +1,105 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2017-03-02 00:11:18 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 00:43:01 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 01:59:22 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 02:05:05 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 02:12:04 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 02:23:23 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 03:33:08 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 03:43:48 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 04:08:28 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 04:12:13 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 04:27:56 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 04:35:01 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 04:37:42 --> Severity: Notice  --> Undefined offset: 1 /home/ishkaransingh/public_html/application/helpers/psycho_helper.php 195
+ERROR - 2017-03-02 04:37:42 --> Severity: Notice  --> Undefined offset: 1 /home/ishkaransingh/public_html/application/helpers/psycho_helper.php 219
+ERROR - 2017-03-02 04:41:37 --> Severity: Notice  --> Use of undefined constant php - assumed 'php' /home/ishkaransingh/public_html/application/views/view_review_order.php 58
+ERROR - 2017-03-02 04:43:21 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 05:28:04 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 05:39:20 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 05:52:21 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 06:05:30 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 06:24:41 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 06:26:02 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 06:35:12 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 07:03:55 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 07:04:30 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 07:05:39 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 07:26:32 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 07:41:51 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 07:42:13 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 07:46:46 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 08:15:00 --> 404 Page Not Found --> .gitignore
+ERROR - 2017-03-02 08:15:01 --> 404 Page Not Found --> .git
+ERROR - 2017-03-02 08:15:02 --> 404 Page Not Found --> .git
+ERROR - 2017-03-02 08:15:03 --> 404 Page Not Found --> .git
+ERROR - 2017-03-02 08:15:05 --> 404 Page Not Found --> .svn
+ERROR - 2017-03-02 08:15:06 --> 404 Page Not Found --> .bzr
+ERROR - 2017-03-02 08:15:07 --> 404 Page Not Found --> .hg
+ERROR - 2017-03-02 08:25:02 --> Unable to select database: psycho_store
+ERROR - 2017-03-02 08:44:29 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-03-02 09:15:33 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-03-02 09:48:12 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 10:29:48 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 10:37:47 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 10:40:55 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 10:56:06 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 11:03:54 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 11:03:54 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 11:33:48 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 11:42:38 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 12:12:25 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-03-02 12:27:21 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 12:34:07 --> Severity: Notice  --> Use of undefined constant php - assumed 'php' /home/ishkaransingh/public_html/application/views/view_review_order.php 58
+ERROR - 2017-03-02 12:34:27 --> Severity: Notice  --> Use of undefined constant php - assumed 'php' /home/ishkaransingh/public_html/application/views/view_review_order.php 58
+ERROR - 2017-03-02 12:34:38 --> Severity: Notice  --> Undefined variable: email /home/ishkaransingh/public_html/application/views/email/order-txt.php 13
+ERROR - 2017-03-02 12:48:36 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 13:00:41 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 13:04:34 --> Severity: Notice  --> Use of undefined constant php - assumed 'php' /home/ishkaransingh/public_html/application/views/view_review_order.php 58
+ERROR - 2017-03-02 13:16:42 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-03-02 13:16:43 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-03-02 13:54:12 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 14:00:11 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 14:04:14 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 14:12:55 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 14:14:08 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 14:19:52 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-03-02 14:19:52 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-03-02 14:24:56 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 14:30:36 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 14:37:02 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-03-02 14:37:02 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-03-02 14:52:58 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 15:01:56 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-03-02 15:11:34 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-03-02 15:11:34 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-03-02 15:38:03 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-03-02 15:43:36 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 15:58:04 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 15:59:28 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-03-02 16:18:08 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 16:31:30 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-03-02 16:31:30 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-03-02 16:40:07 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 16:47:53 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 17:06:49 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 17:24:16 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 17:56:20 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 18:03:41 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-03-02 18:03:41 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-03-02 18:04:59 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 18:09:14 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 18:44:15 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 19:00:38 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-03-02 19:00:39 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-03-02 19:19:26 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 19:50:39 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-03-02 19:51:17 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-03-02 20:36:58 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-03-02 20:36:59 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-03-02 21:20:47 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-03-02 21:20:47 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-03-02 22:12:55 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-03-02 22:12:56 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-03-02 23:05:21 --> 404 Page Not Found --> robots.txt

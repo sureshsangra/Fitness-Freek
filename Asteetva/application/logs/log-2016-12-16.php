@@ -1,0 +1,43 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2016-12-16 00:03:37 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-12-16 02:35:46 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-12-16 02:35:46 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-12-16 05:31:21 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-12-16 05:37:50 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-12-16 06:12:23 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-12-16 06:12:28 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-12-16 10:29:45 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-12-16 10:37:18 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-12-16 11:42:43 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-12-16 12:51:15 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-12-16 12:51:18 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-12-16 14:17:03 --> 404 Page Not Found --> wp-login.php
+ERROR - 2016-12-16 14:17:04 --> 404 Page Not Found --> administrator
+ERROR - 2016-12-16 14:17:04 --> 404 Page Not Found --> admin.php
+ERROR - 2016-12-16 14:17:05 --> 404 Page Not Found --> bitrix
+ERROR - 2016-12-16 14:17:05 --> 404 Page Not Found --> admin/login.php
+ERROR - 2016-12-16 14:17:10 --> 404 Page Not Found --> user
+ERROR - 2016-12-16 14:27:22 --> 404 Page Not Found --> wp-content
+ERROR - 2016-12-16 14:41:15 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-12-16 14:53:19 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-12-16 14:55:32 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-12-16 15:06:29 --> 404 Page Not Found --> wp-login.php
+ERROR - 2016-12-16 17:37:38 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-12-16 17:37:38 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-12-16 17:40:34 --> 404 Page Not Found --> wp-login.php
+ERROR - 2016-12-16 18:18:57 --> 404 Page Not Found --> latest
+ERROR - 2016-12-16 18:18:58 --> 404 Page Not Found --> latest
+ERROR - 2016-12-16 18:18:58 --> 404 Page Not Found --> popular
+ERROR - 2016-12-16 18:18:59 --> 404 Page Not Found --> popular
+ERROR - 2016-12-16 18:19:02 --> 404 Page Not Found --> assets.pinterest.com
+ERROR - 2016-12-16 18:33:43 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-12-16 19:16:41 --> Severity: Notice  --> Use of undefined constant php - assumed 'php' /home/ishkaransingh/public_html/application/views/view_review_order.php 58
+ERROR - 2016-12-16 19:20:40 --> Severity: Notice  --> Undefined variable: email /home/ishkaransingh/public_html/application/views/email/order-txt.php 13
+ERROR - 2016-12-16 19:33:51 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-12-16 19:38:32 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-12-16 19:56:52 --> 404 Page Not Found --> cms
+ERROR - 2016-12-16 20:00:33 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-12-16 21:10:05 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2016-12-16 21:17:38 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-12-16 22:26:43 --> 404 Page Not Found --> apple-touch-icon.png

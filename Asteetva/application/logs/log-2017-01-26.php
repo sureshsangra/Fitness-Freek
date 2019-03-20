@@ -1,0 +1,79 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2017-01-26 00:51:46 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 01:20:49 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 03:01:58 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 03:24:29 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 04:13:22 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 04:33:11 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 04:39:41 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-01-26 04:40:36 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-01-26 05:45:42 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 06:13:51 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-01-26 07:03:31 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 07:18:33 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 07:18:43 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 07:38:17 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 07:45:44 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 08:51:32 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 08:52:46 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-01-26 08:52:46 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-01-26 09:22:46 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 09:25:24 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 10:11:45 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 10:24:21 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 11:29:32 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-01-26 11:29:33 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-01-26 11:29:33 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-01-26 11:30:59 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 11:57:10 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 12:47:11 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 13:24:00 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 13:31:16 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-01-26 14:06:35 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 15:04:07 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 15:04:50 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 15:08:23 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 15:11:19 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 15:15:44 --> 404 Page Not Found --> admin/chheckouts
+ERROR - 2017-01-26 15:16:26 --> Severity: Notice  --> Use of undefined constant php - assumed 'php' /home/ishkaransingh/public_html/application/views/view_review_order.php 58
+ERROR - 2017-01-26 15:19:59 --> Severity: Notice  --> Undefined variable: email /home/ishkaransingh/public_html/application/views/email/order-txt.php 13
+ERROR - 2017-01-26 15:42:39 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 15:58:59 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 15:58:59 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 16:09:11 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 16:09:11 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 16:20:49 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 16:20:50 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 16:37:05 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 17:22:34 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 18:06:37 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-01-26 18:06:55 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-01-26 18:08:04 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-01-26 18:10:16 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 18:21:20 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 18:52:58 --> Severity: Notice  --> Use of undefined constant php - assumed 'php' /home/ishkaransingh/public_html/application/views/view_review_order.php 58
+ERROR - 2017-01-26 18:53:15 --> Severity: Notice  --> Undefined variable: email /home/ishkaransingh/public_html/application/views/email/order-txt.php 13
+ERROR - 2017-01-26 19:04:15 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 19:04:15 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 19:13:58 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 19:14:37 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 19:14:38 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 19:25:37 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 19:25:37 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 19:32:35 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 19:32:36 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 19:42:44 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 19:42:45 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 19:42:57 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 21:15:43 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 21:37:05 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 22:17:22 --> Severity: Notice  --> Use of undefined constant php - assumed 'php' /home/ishkaransingh/public_html/application/views/view_review_order.php 58
+ERROR - 2017-01-26 22:18:01 --> Severity: Notice  --> Undefined variable: email /home/ishkaransingh/public_html/application/views/email/order-txt.php 13
+ERROR - 2017-01-26 22:23:07 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 22:26:44 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 22:48:42 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 23:23:39 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 23:41:20 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 23:41:21 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-26 23:57:44 --> 404 Page Not Found --> robots.txt
